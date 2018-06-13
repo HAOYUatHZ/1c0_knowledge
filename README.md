@@ -1,7 +1,16 @@
 # 1c0_knowledge
 
-## 各机构 收益
-+ ![Agents](pics/agents.jpg)
+## 资本
++ 收益
+    * ![capitals](pics/capitals.jpg)
++ 口碑
+
+## 机构 & 代投
++ 瑞士站
++ ico500
++ leek
++ tokeneed
++ 皇马
 
 ## 近期项目盘点
 
@@ -13,6 +22,9 @@
 + 白名单
 + v 神点赞靠谱吗
 + v 神站台靠谱吗
++ 硬顶
++ 软顶
++ 盘子拉升
 
 
 ## 去中心化代投黑名单
