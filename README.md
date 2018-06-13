@@ -1,7 +1,7 @@
 # 1c0_knowledge
 
 ## 各机构 收益
-+ ![Agents](pics/agents.)
++ ![Agents](pics/agents.jpg)
 
 ## 近期项目盘点
 
