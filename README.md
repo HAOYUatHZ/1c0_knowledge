@@ -1,12 +1,16 @@
 # 1c0_knowledge
 
 ## 各机构 收益
++ ![Agents](pics/agents.)
 
 ## 近期项目盘点
 
 ## 基础知识
 
 + 荷兰拍
++ KYC
++ AML
++ 白名单
 
 
 ## 去中心化代投黑名单
